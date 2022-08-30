@@ -1,0 +1,27 @@
+{
+	"AS_UWI_hb5b6093d98d4474837702c6bd5f0afa": {
+		"id": "AS_UWI_hb5b6093d98d4474837702c6bd5f0afa",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "b7e61c0deb3a4169a987b8d1a8590c54"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET__ge0bf0fb221349d9b9cb406da6e57237",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "\nvoltmx.phone.openEmail([\"\"],\n                     [\"\"],\n                     [\"\"],\n                     'Functional Preview for News & Weather',\n                     \"Hi,<br>Please preview the News & Weather app in HCL Volt MX Iris Functional Preview using the following way:<br><br>Use the cloud code from the HCL Volt MX marketplace in the HCL Volt MX Iris Preview Cloud Option<br><br><i><b><u>Note:</b></u> If you don’t have HCL Volt MX Iris Functional Preview installed on your device,download the HCL Volt MX AppViewer from App Store/Play Store.</i><br><br>\",true);",
+				"parentId": null,
+				"callbackType": null
+			}
+		]
+	}
+}

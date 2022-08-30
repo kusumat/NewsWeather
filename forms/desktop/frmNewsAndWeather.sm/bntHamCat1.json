@@ -1,0 +1,155 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": ""
+    },
+    "_skin_": "ps4588f9413d7611e8831de1bd0e6fda5c",
+    "_text_": "TOP-STORIES",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "167px"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "number",
+        "value": ""
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "ps4588f9413d7611e8831de1bd0e6fda5c",
+    "id": "bntHamCat1",
+    "ide_onClick": "AS_Button_g9c0a78493864127bd20d169fb1c3e31",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f471c13da585421ab07f4faf234cb2ca",
+    "name": "kony.ui.Button",
+    "parent": "flxHamCats",
+    "pf": "frmNewsAndWeather",
+    "responsiveData": {
+        "b1": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "contentAlignment": 6,
+            "height": {
+                "type": "string",
+                "value": "40px"
+            },
+            "left": {
+                "type": "string",
+                "value": "10%"
+            },
+            "right": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "2dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "80%"
+            }
+        },
+        "b1370971170": {
+            "contentAlignment": 6,
+            "left": {
+                "type": "string",
+                "value": ""
+            },
+            "right": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "80%"
+            }
+        },
+        "b4": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "contentAlignment": 6,
+            "height": {
+                "type": "string",
+                "value": "40px"
+            },
+            "left": {
+                "type": "string",
+                "value": "10%"
+            },
+            "right": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "2dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "80%"
+            }
+        },
+        "b5": {
+            "centerY": {
+                "type": "string",
+                "value": ""
+            },
+            "contentAlignment": 6,
+            "height": {
+                "type": "string",
+                "value": "40px"
+            },
+            "left": {
+                "type": "string",
+                "value": "10%"
+            },
+            "right": {
+                "type": "string",
+                "value": "10dp"
+            },
+            "top": {
+                "type": "string",
+                "value": "2dp"
+            },
+            "width": {
+                "type": "string",
+                "value": "80%"
+            }
+        }
+    },
+    "wType": "Button",
+    "zindex": 0
+}

@@ -1,0 +1,21 @@
+{
+	"AS_Button_hc6ce7c2c7f0420c80e82b1e48e106de": {
+		"id": "AS_Button_hc6ce7c2c7f0420c80e82b1e48e106de",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_ide_onClick_i2f00495562e4bdeaff7db629af16b93",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "//this.knowledgeFrameworkOnclick();\n",
+				"callbackType": null
+			}
+		]
+	}
+}

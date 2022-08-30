@@ -1,0 +1,27 @@
+{
+	"AS_Segment_d6e884f7ae7c41eebf52b063bf478814": {
+		"id": "AS_Segment_d6e884f7ae7c41eebf52b063bf478814",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "FormController",
+				"name": "form"
+			},
+			{
+				"datatype": "WKInterfaceTable",
+				"name": "table"
+			},
+			{
+				"datatype": "Int",
+				"name": "rowIndex"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "faf90fa480d641ea9c17cee1bc60014e"
+		},
+		"language": "swift",
+		"actions": []
+	}
+}

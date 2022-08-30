@@ -1,0 +1,21 @@
+{
+	"AS_FlexContainer_fa51ebf320474ede8d8658cf79bbb764": {
+		"id": "AS_FlexContainer_fa51ebf320474ede8d8658cf79bbb764",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_ide_onClick_dd0d6830ecf34ac69bd8d8593e07edc3",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "this.view.flxHamMenu.isVisible = ! this.view.flxHamMenu.isVisible;",
+				"callbackType": null
+			}
+		]
+	}
+}

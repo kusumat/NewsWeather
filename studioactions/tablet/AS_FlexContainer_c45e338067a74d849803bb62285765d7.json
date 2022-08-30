@@ -1,0 +1,26 @@
+{
+	"AS_FlexContainer_c45e338067a74d849803bb62285765d7": {
+		"id": "AS_FlexContainer_c45e338067a74d849803bb62285765d7",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "i3b2147705b44608897746c4e20c2543"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_i7de59d7b34345ecbef0fb23231978f3",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "//alert(\"on clikc\");\n//this.knowledgeFrameworkOnclick();\n//this.knowledgeFrameworkOnclick();\n//this.frmNewsAndWeatherPostShow();",
+				"parentId": null
+			}
+		]
+	}
+}

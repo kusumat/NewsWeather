@@ -1,0 +1,149 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_pxMenuIndex": [
+        1,
+        1,
+        0
+    ],
+    "_skin_": "s4d1b1ab47c547cfb0d4cb9b38de0071",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "ide_onOrientationChange": "AS_Form_h14b65dae92b4c298e1e7d126b2b778d",
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "flxHam",
+        "flxBody",
+        "flxKnowledgeFramework",
+        "btnKnowledgeFramework",
+        "flxNewsDetails",
+        "flxBlur",
+        "flxBtnKnow",
+        "flxLocation"
+    ],
+    "configureExtendBottom": false,
+    "configureExtendTop": false,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "tablet",
+            "name": "frmNewsAndWeatherController"
+        }
+    },
+    "currentLocale": "default",
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "device": "iPad3",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "enablescrolling": true,
+    "id": "frmNewsAndWeather",
+    "ide_postShow": "AS_Form_j7284119aec84b5cb84bed3d422957e6",
+    "ide_preShow": "AS_Form_dc0774db01814231abd1206b24e033ce",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 2,
+    "ipad": {
+        "ide_onOrientationChange": "AS_Form_h14b65dae92b4c298e1e7d126b2b778d",
+        "needAppMenu": false,
+        "psp": {
+            "configureExtendBottom": false,
+            "configureExtendTop": false,
+            "configureStatusBarStyle": true,
+            "inputAccessoryViewType": 2,
+            "needsIndicatorDuringPostShow": false,
+            "statusBarHidden": false,
+            "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "f45459c6ef744c05a3226d2d6ab9eabe",
+                "leftBarButtonItems": [
+                    {
+                        "kuid": "fe371443e9324edd9deb713f0e8bb07e",
+                        "leftButtonText": "Back",
+                        "leftTitle": "Back",
+                        "prevFormTitle": false,
+                        "titleBarLeftSideView": "button",
+                        "type": 4
+                    }
+                ],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "info": {
+                            "title": "Edit"
+                        },
+                        "kuid": "j456cfb753804d0b8f8bda6c32636293",
+                        "style": 0,
+                        "tintColor": "333333",
+                        "type": 1
+                    }
+                ],
+                "tintColor": "333333",
+                "translucent": true
+            }
+        },
+        "titleBar": false
+    },
+    "iphone": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "isvisible": true,
+    "kuid": "i3b2147705b44608897746c4e20c2543",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "needsindicatorduringpostshow": false,
+    "paddinginpixel": false,
+    "platform": "ipad",
+    "prevDevice": "GalaxyTab7",
+    "prevPlatform": "tabrcandroid",
+    "retainscrollposition": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaandroidtablet": {
+        "needAppMenu": false
+    },
+    "spaipad": {
+        "needAppMenu": false
+    },
+    "spawindowstablet": {
+        "needAppMenu": false
+    },
+    "statusbarstyle": "STATUS_BAR_STYLE_DEFAULT",
+    "titleBarSkin": "s6412a66b73643bd8dd387c18575960d",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "windows8": {
+        "needAppMenu": false
+    }
+}

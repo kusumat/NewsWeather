@@ -1,0 +1,19 @@
+{
+    "classname": "NewsBanner",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": []
+        },
+        "properties": {
+            "custom": [],
+            "passthrough": []
+        }
+    },
+    "namespace": "uwGen",
+    "version": "1.0.0"
+}

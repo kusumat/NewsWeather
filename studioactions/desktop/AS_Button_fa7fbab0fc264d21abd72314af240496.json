@@ -1,0 +1,21 @@
+{
+	"AS_Button_fa7fbab0fc264d21abd72314af240496": {
+		"id": "AS_Button_fa7fbab0fc264d21abd72314af240496",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_ide_onClick_fd15c73b09f1467daa617bd6cffb83d4",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "this.setCategorySelected(eventobject.id);",
+				"callbackType": null
+			}
+		]
+	}
+}

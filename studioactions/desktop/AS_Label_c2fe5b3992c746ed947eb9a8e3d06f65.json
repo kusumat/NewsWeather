@@ -1,0 +1,35 @@
+{
+	"AS_Label_c2fe5b3992c746ed947eb9a8e3d06f65": {
+		"id": "AS_Label_c2fe5b3992c746ed947eb9a8e3d06f65",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "string",
+				"name": "x"
+			},
+			{
+				"datatype": "string",
+				"name": "y"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "ed2af679d1fb49d1bb9d1803bc1e6f05",
+			"name": "frmNewsAndWeather"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_f223ddfdf8664e19b7f210abcab3ab4d",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "  kony.application.openURL(\"https://www.hcltechsw.com/volt-mx/resources\");\nthis.view.flxHamMenu.setVisibility(false);",
+				"parentId": null
+			}
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+  "subType" : "customapp",
+  "description" : "This app is created from Studio App NewsandWeather.\r\n",
+  "version" : "1.0",
+  "intSvcs" : [ {
+    "name" : "LocationSampleService",
+    "version" : "1.0",
+    "etag" : "7a4709fa-1282-49ef-b177-e9a477b98d65"
+  }, {
+    "name" : "NewsSampleService",
+    "version" : "1.0",
+    "etag" : "404b2669-6ba0-4c2d-b4f9-048b28531162"
+  }, {
+    "name" : "WeatherSampleService",
+    "version" : "1.0",
+    "etag" : "1f0cd455-200a-4948-a0ff-3fbd5d6fd04d"
+  } ],
+  "orchSvcs" : [ {
+    "name" : "TopStoriesandWeatherSample",
+    "version" : "1.0",
+    "etag" : "2d79f306-f2bf-4e75-90b7-8d92ef114d76"
+  }, {
+    "name" : "WeatherAndLocation",
+    "version" : "1.0",
+    "etag" : "2bb39fea-ef9b-4a7a-8113-5b672f987119"
+  } ],
+  "identitySvcConf" : "{\"session_idle_timeout_mins\":20,\"session_max_duration_mins\":360,\"show_security_attributes\":false,\"is_integrity_enabled\":false,\"auto_extend\":true}"
+}

@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se3f014b56e24592b6aab1edc99db830",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "breakpointInfo": {
+        "b1": {
+            "width": 1366
+        },
+        "b2": {
+            "width": 1024
+        },
+        "b3": {
+            "width": 640
+        }
+    },
+    "canUpdateUI": true,
+    "canvasWidth": 1200,
+    "children": [
+        "KnowledgeFramework1"
+    ],
+    "containerweight": 100,
+    "currentLocale": "default",
+    "device": "GalaxyTab7",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "globalUserWidgetRefs": [
+        "u2dae870f632473f91206e05125fbde2"
+    ],
+    "id": "userwidgetmodel",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "isvisible": true,
+    "kuid": "a4111ee47c4a412db70eb51f1d6127ad",
+    "layouttype": 2,
+    "masterType": 1,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "paddinginpixel": false,
+    "platform": "tabrcandroid",
+    "prevDevice": "Pixel3",
+    "prevPlatform": "android",
+    "retainscrollposition": false,
+    "titleBarSkin": "s144684a66df4b9e80d9d4b3b9558ed9",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

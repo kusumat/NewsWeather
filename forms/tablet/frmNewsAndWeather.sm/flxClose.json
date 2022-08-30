@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "1.73%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "85%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sfd175df69f743a69bda059fa8d549f5",
+    "_top_": {
+        "type": "string",
+        "value": "7.73%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "imgCloseKF"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxClose",
+    "ide_onClick": "AS_FlexContainer_c45e338067a74d849803bb62285765d7",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "ge5ace37e50e420f8d2e3b30113d4b58",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxKnowledgeFramework",
+    "pf": "frmNewsAndWeather",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

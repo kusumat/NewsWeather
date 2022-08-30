@@ -1,0 +1,21 @@
+{
+	"AS_Button_a6203cb4a1e44461b3d33d6580e2dcfd": {
+		"id": "AS_Button_a6203cb4a1e44461b3d33d6580e2dcfd",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			}
+		],
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_ide_onClick_c8065a33204a4ba29a495452234a8ef3",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "this.view.flxKnowledgeFramework.isVisible =false;\nthis.view.flxBtnKnow.isVisible = true;\n\nthis.setCategorySelected(eventobject.id);",
+				"callbackType": null
+			}
+		]
+	}
+}

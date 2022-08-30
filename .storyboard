@@ -1,0 +1,95 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [
+                {
+                    "actionId": "NAVIGATE_TO_FORM___d0c9cc4db6894407a62e1d5f7b1f4e44",
+                    "actionSequenceId": "AS_Button_d2f0985dd6384218bea42dc9dea2f3dc",
+                    "beautifiedPath": "frmNewsAndWeather > btnFloating > onClick",
+                    "evt": "ide_onClick",
+                    "from": "b7e61c0deb3a4169a987b8d1a8590c54",
+                    "isPSP": false,
+                    "points": [
+                        177.6,
+                        448.7571940104166,
+                        187.6,
+                        448.7571940104166,
+                        188,
+                        448.7571940104166,
+                        188,
+                        448.7571940104166,
+                        196,
+                        448.7571940104166,
+                        196,
+                        203.29052734375,
+                        453.6,
+                        203.29052734375,
+                        463.6,
+                        203.29052734375
+                    ],
+                    "to": "b01986ea256f49db85afbea0b8991e10",
+                    "widgetKUID": "h83ca2d0942d45fd8edf75f72d0f3b18"
+                },
+                {
+                    "actionId": "NAVIGATE_TO_FORM___f68880fbfb62473180e48f617e0ff220",
+                    "actionSequenceId": "AS_UWI_c142c3c0a29d46cca4705a4172b01361",
+                    "beautifiedPath": "frmNewsAndWeather > hamburger > onClickFooterHelp",
+                    "evt": "ide_onClickFooterHelp",
+                    "from": "b7e61c0deb3a4169a987b8d1a8590c54",
+                    "isPSP": false,
+                    "points": [
+                        177.6,
+                        557.8238606770833,
+                        187.6,
+                        557.8238606770833,
+                        188,
+                        557.8238606770833,
+                        188,
+                        803.2905273437501,
+                        453.6,
+                        803.2905273437501,
+                        463.6,
+                        803.2905273437501
+                    ],
+                    "to": "f93855e1d3b047d085031fae86b2f695",
+                    "widgetKUID": "ab980dd539fd49cc97bf7666c1a2baba"
+                }
+            ],
+            "nodeDataArray": [
+                {
+                    "formKUID": "b01986ea256f49db85afbea0b8991e10",
+                    "formName": "frmFramework",
+                    "isStartupForm": false,
+                    "key": "b01986ea256f49db85afbea0b8991e10",
+                    "loc": "463.6 39.690527343750006",
+                    "thumbnailURL": "/assets/NewsandWeather/forms/mobile/KnowledgeFramework/frmFramework.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "b7e61c0deb3a4169a987b8d1a8590c54",
+                    "formName": "frmNewsAndWeather",
+                    "isStartupForm": false,
+                    "key": "b7e61c0deb3a4169a987b8d1a8590c54",
+                    "loc": "8 339.69052734375",
+                    "thumbnailURL": "/assets/NewsandWeather/forms/mobile/frmNewsAndWeather.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "be31b316dd5546a7bbdf2943d47b76cb",
+                    "formName": "frmNewsDetails",
+                    "isStartupForm": false,
+                    "key": "be31b316dd5546a7bbdf2943d47b76cb",
+                    "loc": "463.6 1239.69052734375",
+                    "thumbnailURL": "/assets/NewsandWeather/forms/mobile/frmNewsDetails.sm/.thumbs/default.jpeg"
+                },
+                {
+                    "formKUID": "f93855e1d3b047d085031fae86b2f695",
+                    "formName": "frmSplash",
+                    "isStartupForm": true,
+                    "key": "f93855e1d3b047d085031fae86b2f695",
+                    "loc": "463.6 639.6905273437501",
+                    "thumbnailURL": "/assets/NewsandWeather/forms/mobile/frmSplash.sm/.thumbs/default.jpeg"
+                }
+            ]
+        }
+    }
+}

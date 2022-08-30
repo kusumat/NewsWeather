@@ -1,0 +1,39 @@
+{
+	"AS_Image_ge59db67de064d279d66ceeedb2fd714": {
+		"id": "AS_Image_ge59db67de064d279d66ceeedb2fd714",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "string",
+				"name": "x"
+			},
+			{
+				"datatype": "string",
+				"name": "y"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "ps444c33813d7611e8831de1bd0e6fda5c"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "INVOKE_FUNCTION__jbd97e0d87d34cf4a4b573857391011c",
+				"type": "INVOKE_FUNCTION",
+				"sequenceKUID": "knowledgeFrameworkOnclick",
+				"display": "knowledgeFrameworkOnclick",
+				"inputparams": [],
+				"parentId": null,
+				"callbackType": null,
+				"disabled": null,
+				"source": "controller"
+			}
+		]
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"AS_Form_ic4f7cd2a74c45b7b5713aec396ab753": {
+		"id": "AS_Form_ic4f7cd2a74c45b7b5713aec396ab753",
+		"type": "ACTION_SEQUENCE",
+		"params": [
+			{
+				"datatype": "collection",
+				"name": "eventobject"
+			},
+			{
+				"datatype": "number",
+				"name": "breakpoint"
+			}
+		],
+		"contextObj": {
+			"type": "forms",
+			"platform": "",
+			"KUID": "ed2af679d1fb49d1bb9d1803bc1e6f05",
+			"name": "frmNewsAndWeather"
+		},
+		"language": "js",
+		"actions": [
+			{
+				"id": "ADD_SNIPPET_a23f4d6cae8f424e8381d22d2c24660d",
+				"type": "ADD_SNIPPET",
+				"codeSnippet": "\n//kony.model.ApplicationContext.showLoadingScreen(\"Loading...\");\n//alert(breakpoint);\nthis.screenResized(eventobject,breakpoint);\n",
+				"parentId": null
+			}
+		]
+	}
+}
