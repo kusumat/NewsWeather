@@ -276,9 +276,9 @@
     "cordovaVersionInfo": {
         "useGlobalCordova": false
     },
-    "createdVizVersion": "9.2.50",
-    "createdgaversion": "9.2.50",
-    "currentgaversion": "9.2.50",
+    "createdVizVersion": "9.2.54",
+    "createdgaversion": "9.2.54",
+    "currentgaversion": "9.2.54",
     "deeplinkkey": "None",
     "defaultZIndex": "1",
     "defaultlocalekey": null,
@@ -423,7 +423,7 @@
             "version": "1.0"
         }
     },
-    "konyVizVersion": "9.2.50",
+    "konyVizVersion": "9.2.54",
     "lastmodifiedtime": "1626176118446",
     "location": "false",
     "mangoapptitlekey": ",,,,,,",
